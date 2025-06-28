@@ -54,3 +54,13 @@ This project analyzes blood test reports and provides health recommendations usi
 4. Agent mismatch in `task.py`.
 5. Unused `file_path` parameter in `run_crew`.
 6. Potential race condition in file cleanup.
+
+
+
+
+
+
+### **Changes Made**
+1. Added setup instructions for Redis and Celery.
+2. Updated API documentation to include the `/task/{task_id}` endpoint.
+3. Highlighted the new features: Queue Worker Model and Database Integration.
